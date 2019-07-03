@@ -158,20 +158,11 @@ Copyright &copy; 2017.Металл Мастер.
 
 <div id="s5_scroll_wrap" class="s5_wrap">
 
-    <div id="s5_scrolltopvar" class="s5_scrolltop_fadeout" style="visibility:hidden">
+    <div id="s5_scrolltopvar" class="s5_scrolltop_fadeout s5_scrolltop_fadein">
         <a href="#s5_scrolltotop" id="s5_scrolltop_a" class="s5_scrolltotop"></a>
     </div>
 </div>
 
-<!-- Additional scripts to load just before closing body tag -->
-<!-- Info Slide script - JS and CSS called in header -->
-<script type='text/javascript'>
-    jQuery(document).ready(function() {
-        jQuery('.s5_is_slide').each(function(i, d) {
-            jQuery(d).wrapInner(jQuery('<div class="s5_is_display"></div>'));
-        });
-    });
-</script>
 <!-- Scroll Reavel script - JS called in header -->
 <script type='text/javascript'>
     jQuery(document).ready(function() {

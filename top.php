@@ -36,13 +36,7 @@
                         <div class="s5_module_box_1">
                             <div class="s5_module_box_2">
                                 <div class="s5_mod_h3_outer">
-                                    <h3 class="s5_mod_h3"><span class="s5_h3_first">Sample </span><span class="s5_h3_last"> Sidebar Module</span></h3></div>
-                                <div style="clear:both"></div>
-                                <div class="s5_outer-sidebar">
-                                    <div class="custom-sidebar">
-                                        This is a sample module published to the sidebar_top position, using the -sidebar module class suffix. There is also a sidebar_bottom position below the menu.</div>
-                                </div>
-                                <div style="clear:both; height:0px"></div>
+                                    <h3 class="s5_mod_h3"><span class="s5_h3_last">Металлмастер</span></h3></div>
                             </div>
                         </div>
                     </div>
@@ -50,7 +44,7 @@
             </div>
             <div id="s5_responsive_mobile_sidebar_menu_wrap">
                 <!--<ul class="menu">-->
-                <h3 onclick='s5_responsive_mobile_sidebar_h3_click(this.id)'><span class='s5_sidebar_deeper'><ahref='/katalog.html' >Каталог</a></span></h3>
+                <h3 onclick='s5_responsive_mobile_sidebar_h3_click(this.id)'><span class='s5_sidebar_deeper'><a href='/katalog.html'>Каталог</a></span></h3>
                 <div class='s5_responsive_mobile_sidebar_sub'>
                     <ul>
                         <li>
@@ -73,23 +67,6 @@
                 <h3><span><a href='/kontakty.html' >Контакты</a></span></h3>
                 <h3><span><a href='/fotogalereya-rabot.html' >Фотогалерея</a></span></h3>
                 <!--</ul>-->
-            </div>
-            <div id="s5_pos_sidebar_bottom">
-                <div class="module_round_box_outer">
-                    <div class="module_round_box-sidebar">
-                        <div class="s5_module_box_1">
-                            <div class="s5_module_box_2">
-                                <div class="s5_mod_h3_outer">
-                                    <h3 class="s5_mod_h3"><span class="s5_h3_first">Sample </span><span class="s5_h3_last"> Sidebar Module</span></h3></div>
-                                <div style="clear:both"></div>
-                                <div class="s5_outer-sidebar">
-                                    <div class="custom-sidebar">This is a sample module published to the sidebar_bottom position, using the -sidebar module class suffix. There is also a sidebar_top position below the search.</div>
-                                </div>
-                                <div style="clear:both; height:0px"></div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
             </div>
         </div>
     </div>
@@ -120,14 +97,7 @@
                     <div id="s5_header_area_inner" class="s5_wrap">
                         <div id="s5_header_wrap">
                             <img alt="logo" src="/images//s5_logo.png" id="s5_logo" onclick="window.document.location.href='/'" />
-                            <div id="s5_pos_custom_1">
-                                <div class="moduletable">
-                                    <div class="custom">
-                                        <div class="ion-ios7-telephone"><span style="color: #ffffff;">&nbsp;+7 (812) 380-11-04</span></div>
-                                    </div>
-                                </div>
-                                <div style="clear:both; height:0px"></div>
-                            </div>
+
                             <div id="s5_menu_wrap">
                                 <ul id='s5_nav' class='menu'>
                                     <li class=''><span class='s5_level1_span1'><span class='s5_level1_span2'><ahref='/katalog.html'><span onclick='window.document.location.href="/katalog.html"'>Каталог</span></a>
@@ -179,6 +149,14 @@
                                             </span>
                                     </li>
                                 </ul>
+                            </div>
+                            <div id="s5_pos_custom_1">
+                                <div class="moduletable">
+                                    <div class="custom">
+                                        <div class="ion-ios7-telephone"><span style="color: #ffffff;">&nbsp;+7 (812) 380-11-04</span></div>
+                                    </div>
+                                </div>
+                                <div style="clear:both; height:0px"></div>
                             </div>
                             <div style="clear:both; height:0px"></div>
                         </div>
