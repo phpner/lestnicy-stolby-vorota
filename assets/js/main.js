@@ -145,7 +145,7 @@ $(document).ready(function ($) {
         return false;
     });
 
-    $('.thumbnail, .imgblock a').magnificPopup({
+    $('.thumbnail, .imgblock a, .imgSingl, .imgSinglRight, .imgSinglCenter').magnificPopup({
         type: 'image',
         closeOnContentClick: true,
         mainClass: 'mfp-img-mobile',
@@ -155,5 +155,33 @@ $(document).ready(function ($) {
 
     });
 
+    $("#menuTop").mmenu({
+        navbar: {
+            title: "Металлмастер"
+        }
+    });
+
+    $("#ext_callback_id_1").on("submit",function (event) {
+        event.preventDefault();
+        console.log(this);
+
+        var form = this;
+
+        $.ajax({
+            url: form.action,
+            type: form.method,
+            data: $(form).serialize(),
+            beforeSend: function() {
+                $("#ext_callback_id_1")[0].reset();
+            },
+            success: function(response) {
+                console.log(response);
+
+                $("#sendForm").fadeIn(400).delay(2000).fadeOut(800);
+
+            }
+        });
+
+        });
 
 });

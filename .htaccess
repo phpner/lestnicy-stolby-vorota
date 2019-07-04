@@ -41,6 +41,8 @@ RewriteRule .* index.php [F]
 
 ## Begin - Joomla! core SEF Section.
 #
+Adddefaultcharset windows-1251
+php_value default_charset windows-1251
 RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
 #
 # If the requested path and file is not /index.php and the request

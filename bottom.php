@@ -5,66 +5,7 @@
             <div id="s5_bottom_row3_wrap">
                 <div id="s5_bottom_row3">
                     <div id="s5_bottom_row3_inner">
-                        <div id="s5_pos_bottom_row3_1" class="s5_float_left" style="width:25%">
-                            <div class="module_round_box_outer">
-                                <div class="module_round_box-white">
-                                    <div class="s5_module_box_1">
-                                        <div class="s5_module_box_2">
-                                            <div class="s5_mod_h3_outer">
-                                                <h3 class="s5_mod_h3"><span class="s5_h3_first">Свяжитесь </span><span class="s5_h3_last"> с нами</span></h3></div>
-                                            <div style="clear:both"></div>
-                                            <div class="s5_outer-white">
-                                                <div class="custom-white">
-                                                    <ul class="address_ul">
-                                                        <li>г.СПб, ул.Маршала Говорова д.35
-                                                            <br /> БЦ "Желтый Угол", оф 525.</li>
-                                                        <li>+7 (812) 380-11-04, 380-11-05</li>
-                                                        <li>metallmasterspb@gmail.com</li>
-                                                    </ul>
-                                                </div>
-                                            </div>
-                                            <div style="clear:both; height:0px"></div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="module_round_box_outer">
-                                <div class="socshare">
-
-                                    <div style="float: left; margin-right: 3px;">
-                                        <div id="fb-root"></div>
-                                        <script>
-                                            (function(d, s, id) {
-                                                var js, fjs = d.getElementsByTagName(s)[0];
-                                                if (d.getElementById(id)) return;
-                                                js = d.createElement(s);
-                                                js.id = id;
-                                                js.src = "http://connect.facebook.net/en_EN/all.js#xfbml=1";
-                                                fjs.parentNode.insertBefore(js, fjs);
-                                            }(document, 'script', 'facebook-jssdk'));
-                                        </script>
-                                        <div class="fb-like" data-href="http://joomsiter.hol.es/" data-width="10" data-height="10" data-colorscheme="light" data-layout="button_count" data-action="like" data-show-faces="false" data-send="false"></div>
-                                    </div>
-
-                                    <div style="float: left; margin-right: -27px; "><a href="https://twitter.com/share" class="twitter-share-button" data-url="http://joomsiter.hol.es/" data-text="" data-lang="en" rel="nofollow">Tweet</a>
-                                        <script>
-                                            ! function(d, s, id) {
-                                                var js, fjs = d.getElementsByTagName(s)[0];
-                                                if (!d.getElementById(id)) {
-                                                    js = d.createElement(s);
-                                                    js.id = id;
-                                                    js.src = "https://platform.twitter.com/widgets.js";
-                                                    fjs.parentNode.insertBefore(js, fjs);
-                                                }
-                                            }(document, "script", "twitter-wjs");
-                                        </script>
-                                    </div>
-
-                                    <div style="clear:both;"></div>
-                                </div>
-                            </div>
-                        </div>
-                        <div id="s5_pos_bottom_row3_2" class="s5_float_left" style="width:25%">
+                        <div id="s5_pos_bottom_row3_1" class="s5_float_left"  >
                             <div class="module_round_box_outer">
                                 <div class="module_round_box-white">
                                     <div class="s5_module_box_1">
@@ -85,8 +26,19 @@
                                     </div>
                                 </div>
                             </div>
+
                         </div>
-                        <div id="s5_pos_bottom_row3_3" class="s5_float_left" style="width:25%">
+                        <div id="s5_pos_bottom_row3_2" class="s5_float_left" >
+                            <div class="module_round_box_outer">
+                                <div class="module_round_box-white">
+                                    <div class="s5_module_box_1">
+                                        <p class="textCenter">Изготовление закрытых лестниц, цена, закрытые лестницы на второй этаж, продажа
+                                            (купить) закрытую лестницу, закрытая лестница в СПб. Обращайтесь!</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div id="s5_pos_bottom_row3_3" class="s5_float_left"  >
                             <div class="module_round_box_outer">
                                 <div class="module_round_box-white">
                                     <div class="s5_module_box_1">
@@ -96,10 +48,26 @@
                                             <div style="clear:both"></div>
                                             <div class="s5_outer-white">
                                                 <ul class="nav menu">
-                                                    <li class="item-335"><a href="/katalog/лестницы-на-металлическом-каркасе.html">Лестницы на металлическом каркасе</a></li>
+                                                    <li class="item-335"><a href="/katalog/lestnicy-na-metallicheskom-karkase.html">Лестницы на металлическом каркасе</a></li>
                                                 </ul>
                                             </div>
                                             <div style="clear:both; height:0px"></div>
+                                            <div class="s5_module_box_2 contacnBottom">
+                                                <div class="s5_mod_h3_outer">
+                                                    <h3 class="s5_mod_h3"><span class="s5_h3_first">Свяжитесь </span><span class="s5_h3_last"> с нами</span></h3></div>
+                                                <div style="clear:both"></div>
+                                                <div class="s5_outer-white">
+                                                    <div class="custom-white">
+                                                        <ul class="address_ul">
+                                                            <li>г.СПб, ул.Маршала Говорова д.35
+                                                                <br /> БЦ "Желтый Угол", оф 525.</li>
+                                                            <li>+7 (812) 380-11-04, 380-11-05</li>
+                                                            <li>metallmasterspb@gmail.com</li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                                <div style="clear:both; height:0px"></div>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
@@ -126,6 +94,7 @@
 <script src="/assets/js/libs/jquery/jquery-ui-addons.js" type="text/javascript"></script>
 <script src="/assets/js/slick.min.js" type="text/javascript"></script>
 <script src="/assets/js/jquery.magnific-popup.min.js" ></script>
+<script src="/assets/js/libs/mmenu.js" ></script>
 <script src="/assets/js/main.js" ></script>
 
 <script src="/assets/js/libs/mod_s5_image_and_content_fader/jd.gallery.jquery.js" type="text/javascript"></script>
@@ -214,6 +183,14 @@ Copyright &copy; 2017.Металл Мастер.
         }
     });
 </script>
+
+<div id="sendForm">
+    <div class="bg"></div>
+    <span>
+        Сообщение отправлено!
+    </span>
+</div>
+
 </body>
 
 </html>
